@@ -10,7 +10,8 @@
     <!-- Define your beans here -->
    <beans>
 
-       <bean id="myCoach" class="com.luv2code.springdemo.BaseballCoach"/>
+       <bean id="myCoach" class="com.luv2code.springdemo.CoachCoach"/>
+
 
    </beans>
 </beans>
